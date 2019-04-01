@@ -1,8 +1,8 @@
 name: lodash_dart
 description: A lodash package in dart for flutter developer to make their life easier and implementing algorithm in their app much more interesting.
-version: 0.0.4
+version: 0.0.6
 author: Adarsh Kumar <kadarsh.singh@gmail.com>
-homepage: https://kadarsh.github.io
+homepage: https://github.com/kadarsh11/Lodash-Dart
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

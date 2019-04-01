@@ -1,6 +1,6 @@
 library lodash_dart;
 
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 
 class Lodash {
   List chunk({@required List array, @required int size}) {
