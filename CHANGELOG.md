@@ -1,3 +1,5 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Initalized this Package.
+* Inspired by Lodash package in JS.
 
-* TODO: Describe initial release.
+## [0.0.2] - Added 12 function.
+* Added chunk,compact,drop,dropRight,fill,join,nth,reverse,head,last,initial and much more.
